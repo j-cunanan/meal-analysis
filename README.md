@@ -3,4 +3,5 @@
 
 # GOAL
 By using values from “B” to “Q” columns as input features and "R" as target variable, create a classifier to **predict the score of meal.** You can choose whichever features you like and can create any features from original ones to build the classifier.
-You can find detail explanation of each column in the sheet named “Explanation of columns”. Simply saying, columns from “C” to “J” are related to user profile and target amount of nutrients that a user should take per day. Thus these values are same for each user in his/her multiple meal records.
+
+You can find the detailed explanation of each column in the sheet named “Explanation of columns”. Columns from “C” to “J” are related to user profile and target amount of nutrients that a user should take per day. 
